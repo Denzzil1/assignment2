@@ -1,0 +1,30 @@
+/* styles for the recipes body */
+body {
+    font-family: Arial, sans-serif; /* sets font to arial */
+    line-height: 1.6;
+    background-color: #f9f9f9;/*allows for background color*/
+    color: #333;
+    margin: 20px; 
+    padding: 20px; 
+}
+
+h1 {
+    text-align: center;
+    color: #c0392b;
+    /* uses color and centers the text */
+}
+
+/*styles for subheading*/
+h2 {
+    color: #2980b9; /* blue color of subheadings */
+    padding-bottom: 5px; /* adds a bit of space below  subheadings */
+    border-bottom: 2px solid #2980b9; /* Adds the line under subheadings */
+}
+/* grouped the lists together for styles */
+ul, ol {
+    margin: 15px; /* gives margin for lists */
+    padding-left: 20px; /* gives padding from left */
+}
+img {
+    height: 250px; /* allows image size to be more accurate */
+}
